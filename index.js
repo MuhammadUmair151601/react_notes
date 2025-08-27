@@ -62,4 +62,6 @@
 // ******************DYNAMIC COMPONENTS*********************
 // allows the component to bring any kind of changes.
 // we can call the functions in the HTML tags.
- 
+
+// ****************REUSABLE COMPONENTS**********************
+// created once and called again again if we want to use the same property again and again.
