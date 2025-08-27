@@ -1,3 +1,4 @@
+// **********************INTRO TO REACT******************
 // React is a js library containing already huge code libraried used for creative user interfaces.
 // It was developed by facebook.
 // used for a single page application.
@@ -11,6 +12,8 @@
 //  We can make the components of the website like header, side and front component etc.
 // we can use create react app
 // but for learning we will use the vite tool for learning react.
+
+// ********************** METHOD FOR CREATING REACT PROJECT**************
 // FOR CREATING PROJECT:
 // install node js LTS
 // open command screen.
@@ -24,6 +27,8 @@
 // npm install in terminal
 // npm run dev
 // follow host link
+
+// *********************PROJECT COMPONENTS**************************
 // now the components of the project which we created:
 // node modules: package containing all libraries
 // public:contains static files which don't change.
@@ -37,5 +42,20 @@
 // packagelock.json: contains different values of elements.
 // File extensions:
 // .js: contains normal js code. used for general logic
-//  and .jsx combines js with HTML like tags.
+//  and .jsx combines js with HTML like tagsmeans we can use html tags inside js to identify the UI properly.
 // makes it easier to design UI
+// Jsx is not HTML but its jsx. it converts to regular js.
+//Babeljs.io/repl tool allows to see how jsx is transformed to js.
+
+// **********************IMPORTING JSX COMPONENTS AND MAKING FINAL RESULT***********************
+//importing one jsx func to another file.
+// app.jsx contains a func
+// button.jsx contains button func:
+// at the top import khbutton() from "./kgButton"
+// export default app at the end:
+// isi tarha sari components ko karengay import similarly karengay react k components ko import or final product ko arrange kar k export kar lengay.
+//When large num of components are defined inside a file. export them separately:
+// ***important points***
+// funct must start from capital bcz all html components are small by default.
+// css can be directly imported in react: 
+ 
