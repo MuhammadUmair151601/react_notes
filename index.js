@@ -58,4 +58,8 @@
 // ***important points***
 // funct must start from capital bcz all html components are small by default.
 // css can be directly imported in react: 
+
+// ******************DYNAMIC COMPONENTS*********************
+// allows the component to bring any kind of changes.
+// we can call the functions in the HTML tags.
  
